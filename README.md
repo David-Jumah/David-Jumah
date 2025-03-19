@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Jumah
 - 👀 I’m interested in ServiceNow /Cloud Computing / Developement
-- 🌱 I am a certified ServiceNow Administrator
+- 🌱 ServiceNow Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...davidjumah-it@outlook.com
 
